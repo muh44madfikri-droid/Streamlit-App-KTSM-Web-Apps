@@ -197,3 +197,7 @@ if len(belum) == 0:
 else:
     for nama in belum["nama"]:
         st.write(f"- {nama}")
+
+# Footer
+st.markdown("---")
+st.caption("© 2026 Karang Taruna Suko Manunggal - Dibuat dengan Streamlit")
