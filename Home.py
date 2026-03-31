@@ -107,12 +107,12 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto1.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Kegiatan 1</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">Logo KTSM</div></div>', unsafe_allow_html=True)
 
 with col2:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto2.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Kegiatan 2</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">Ketua Rabi bolo</div></div>', unsafe_allow_html=True)
 
 with col3:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
