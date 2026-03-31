@@ -61,3 +61,7 @@ st.subheader("🎵 Media Sosial")
 
 st.write("TikTok:")
 st.markdown("https://www.tiktok.com/@karangtarunasokomanungal")
+
+# Footer
+st.markdown("---")
+st.caption("© 2026 Karang Taruna Suko Manunggal - Dibuat dengan Streamlit")
