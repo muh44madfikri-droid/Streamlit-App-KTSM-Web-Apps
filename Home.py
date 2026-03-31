@@ -138,12 +138,12 @@ with col1:
 with col2:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto2.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Seragam</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">Ketua Rabi Boloo</div></div>', unsafe_allow_html=True)
 
 with col3:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto3.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Anggota</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">Logo KTSM</div></div>', unsafe_allow_html=True)
 
 # Baris 2
 col4, col5, col6 = st.columns(3)
@@ -151,17 +151,17 @@ col4, col5, col6 = st.columns(3)
 with col4:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto4.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Ketua Rabi boloo</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">.......</div></div>', unsafe_allow_html=True)
 
 with col5:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto5.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Kegiatan 5</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">........</div></div>', unsafe_allow_html=True)
 
 with col6:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto6.jpg", use_container_width=True)
-    st.markdown('<div class="gallery-caption">Kegiatan 6</div></div>', unsafe_allow_html=True)
+    st.markdown('<div class="gallery-caption">........</div></div>', unsafe_allow_html=True)
     
 # st.subheader("🖼️ Dokumentasi Kegiatan")
 
