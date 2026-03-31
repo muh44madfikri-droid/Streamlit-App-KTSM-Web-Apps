@@ -136,3 +136,7 @@ with col6:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
     st.image("assets/foto6.jpg", use_container_width=True)
     st.markdown('<div class="gallery-caption">Kegiatan 6</div></div>', unsafe_allow_html=True)
+
+# Footer
+st.markdown("---")
+st.caption("© 2026 Karang Taruna Suko Manunggal - Dibuat dengan Streamlit")
