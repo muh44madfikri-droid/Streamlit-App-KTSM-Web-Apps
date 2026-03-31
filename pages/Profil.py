@@ -13,7 +13,7 @@ Para pemuda-pemudi RT 13, RT 14, lan RT 20 Dukuh Bandungan ingkang kompak, rukun
 
 KARANG TARUNA SUKO MANUNGGAL minangka wadah pemuda ingkang gadhah tujuan kanggé nguataken persaudaraan, ngembangaken potensi generasi muda, saha nyengkuyung kegiatan sosial lan kemasyarakatan kanthi semangat gotong royong. Lumantar kebersamaan, kita ngupadi supados pemuda saged langkung aktif, kreatif, lan migunani tumrap masyarakat sakupenge.
 
-Dados papan sesrawungan, silaturahmi, lan makarya bebarengan, sedaya anggota saged sinau, berbagi gagasan, lan ngleksanani kegiatan positif. Wiwit saking kerja bakti, acara pemuda,kegiatan sosial, program kebersihan lingkungan lan ngantos program-program kemasyarakatan sanesipun, sedaya dipun lampahi kanthi guyub rukun lan kebersamaan.
+Dados papan sesrawungan, silaturahmi, lan makarya bebarengan, sedaya anggota saged sinau, berbagi gagasan, lan ngleksanani kegiatan positif. Wiwit saking kerja bakti, acara pemuda, kegiatan sosial, program kebersihan lingkungan lan ngantos program-program kemasyarakatan sanesipun, sedaya dipun lampahi kanthi guyub rukun lan gotong royong.
 """)
 
 st.markdown("---")
