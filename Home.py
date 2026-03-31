@@ -49,26 +49,26 @@ with col2:
 st.divider()
 
 # ===== STATISTIK =====
-st.subheader("📊 Statistik")
+# st.subheader("📊 Statistik")
 
-col1, col2, col3 = st.columns(3)
+# col1, col2, col3 = st.columns(3)
 
-col1.markdown('<div class="card"><h2>34</h2><p>Anggota</p></div>', unsafe_allow_html=True)
-col2.markdown('<div class="card"><h2>5</h2><p>Kegiatan</p></div>', unsafe_allow_html=True)
-col3.markdown('<div class="card"><h2>2025</h2><p>Berdiri</p></div>', unsafe_allow_html=True)
+# col1.markdown('<div class="card"><h2>34</h2><p>Anggota</p></div>', unsafe_allow_html=True)
+# col2.markdown('<div class="card"><h2>5</h2><p>Kegiatan</p></div>', unsafe_allow_html=True)
+# col3.markdown('<div class="card"><h2>2025</h2><p>Berdiri</p></div>', unsafe_allow_html=True)
 
-st.write("")
+# st.write("")
 
 # ===== KEGIATAN =====
-st.subheader("📌 Kegiatan Utama")
+# st.subheader("📌 Kegiatan Utama")
 
-col1, col2, col3 = st.columns(3)
+# col1, col2, col3 = st.columns(3)
 
-col1.markdown('<div class="card">🎉<br><b>Arisan Bulanan</b><br>Kegiatan rutin setiap bulan</div>', unsafe_allow_html=True)
-col2.markdown('<div class="card">🧹<br><b>Kerja Bakti</b><br>Gotong royong lingkungan</div>', unsafe_allow_html=True)
-col3.markdown('<div class="card">🤝<br><b>Kegiatan Sosial</b><br>Bantuan & kegiatan masyarakat</div>', unsafe_allow_html=True)
+# col1.markdown('<div class="card">🎉<br><b>Arisan Bulanan</b><br>Kegiatan rutin setiap bulan</div>', unsafe_allow_html=True)
+# col2.markdown('<div class="card">🧹<br><b>Kerja Bakti</b><br>Gotong royong lingkungan</div>', unsafe_allow_html=True)
+# col3.markdown('<div class="card">🤝<br><b>Kegiatan Sosial</b><br>Bantuan & kegiatan masyarakat</div>', unsafe_allow_html=True)
 
-st.divider()
+# st.divider()
 
 # ===== CTA =====
 st.subheader("🚀 Akses Sistem")
