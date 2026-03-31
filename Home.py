@@ -107,7 +107,6 @@ with col1:
 with col2:
     if st.button("Masuk tab Pengurus"):
         st.switch_page("pages/Pengurus.py")
-st.subheader("🖼️ Dokumentasi Kegiatan")
 
 st.markdown("""
 <style>
