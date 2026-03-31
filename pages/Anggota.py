@@ -48,4 +48,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.caption("© 2026 Karang Taruna Digital - Dibuat dengan Streamlit")
+st.caption("© 2026 Karang Taruna Suko Manunggal - Dibuat dengan Streamlit")
