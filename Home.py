@@ -111,7 +111,7 @@ with col1:
 
 with col2:
     st.markdown('<div class="gallery-card">', unsafe_allow_html=True)
-    st.image("assets/foto.heic", use_container_width=True)
+    st.image("assets/foto.HEIC", use_container_width=True)
     st.markdown('<div class="gallery-caption">Ketua Rabi bolo</div></div>', unsafe_allow_html=True)
 
 with col3:
