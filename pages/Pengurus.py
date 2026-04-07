@@ -3,8 +3,8 @@ import streamlit as st
 st.title("👥 Pengurus")
 
 data = {
-    "Ketua": "Ryanto",
-    "Wakil Ketua": "Salis",
+    "Ketua": "Saridianto",
+    "Wakil Ketua": "Salis Sapudin",
     "Sekretaris": "Muhamad Fikri",
     "Bendahara": "Romi Abidin"
 }
