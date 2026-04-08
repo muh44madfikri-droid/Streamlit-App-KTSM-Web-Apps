@@ -42,10 +42,10 @@ st.markdown("---")
 # Kegiatan
 st.subheader("📌 Kegiatan")
 st.write("""
-- Kerja bakti lingkungan  
+- Kerja bakti lingkungan
+- Laden manten
 - Kegiatan sosial  
-- Acara pemuda    
-- Program kebersihan lingkungan  
+- Acara pemuda      
 """)
 
 st.markdown("---")
