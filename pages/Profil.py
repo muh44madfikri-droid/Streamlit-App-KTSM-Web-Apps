@@ -44,8 +44,8 @@ st.subheader("📌 Kegiatan")
 st.write("""
 - Kerja bakti lingkungan
 - Laden manten
-- Kegiatan sosial  
-- Acara pemuda      
+- Gotong royong lelayu  
+- Acara pemuda-pemudi      
 """)
 
 st.markdown("---")
